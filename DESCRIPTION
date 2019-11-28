@@ -1,0 +1,14 @@
+Package: mattfun
+Type: Package
+Title: Helper Functions for Exploring Data Sets
+Version: 0.1.0
+Author: Matthew Brown
+Maintainer: Matthew Brown <w.matthew.brown@cihr-irsc.gc.ca>
+Description: Some functions I find helpful when exploring new data sets.
+    More functions may be added or the current functions may change.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+  dplyr
